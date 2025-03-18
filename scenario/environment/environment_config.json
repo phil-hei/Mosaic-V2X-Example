@@ -1,0 +1,3753 @@
+{
+  "events": [
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52247522792793,
+            "longitude": 7.4490270668662815
+          },
+          "b": {
+            "latitude": 51.52270747207207,
+            "longitude": 7.449268633133719
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49850112792793,
+            "longitude": 7.475466627875261
+          },
+          "b": {
+            "latitude": 51.49867857207207,
+            "longitude": 7.475999772124739
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51001952792793,
+            "longitude": 7.438137498630918
+          },
+          "b": {
+            "latitude": 51.51017847207207,
+            "longitude": 7.4384387013690825
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.507269527927924,
+            "longitude": 7.451506405607759
+          },
+          "b": {
+            "latitude": 51.50743837207207,
+            "longitude": 7.451771394392241
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.522038427927924,
+            "longitude": 7.470777968087722
+          },
+          "b": {
+            "latitude": 51.52218387207207,
+            "longitude": 7.471021831912278
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52496272792793,
+            "longitude": 7.425927260585446
+          },
+          "b": {
+            "latitude": 51.525158072072074,
+            "longitude": 7.426427939414554
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51636472792793,
+            "longitude": 7.492099282444621
+          },
+          "b": {
+            "latitude": 51.51656697207207,
+            "longitude": 7.492820717555379
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.514674127927925,
+            "longitude": 7.462170386796568
+          },
+          "b": {
+            "latitude": 51.51483437207207,
+            "longitude": 7.462420913203433
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51517312792793,
+            "longitude": 7.4736636855476775
+          },
+          "b": {
+            "latitude": 51.51531777207207,
+            "longitude": 7.473917114452322
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 2.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.53173972792793,
+            "longitude": 7.460738743269431
+          },
+          "b": {
+            "latitude": 51.53199157207207,
+            "longitude": 7.461014756730569
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50808022792793,
+            "longitude": 7.456865103570901
+          },
+          "b": {
+            "latitude": 51.50823057207207,
+            "longitude": 7.457240696429099
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50631712792793,
+            "longitude": 7.502247508007797
+          },
+          "b": {
+            "latitude": 51.50650197207207,
+            "longitude": 7.5024841919922025
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.497169727927925,
+            "longitude": 7.495971531243458
+          },
+          "b": {
+            "latitude": 51.49735787207207,
+            "longitude": 7.496203068756542
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.501245227927924,
+            "longitude": 7.460107920945267
+          },
+          "b": {
+            "latitude": 51.501390472072075,
+            "longitude": 7.460390179054733
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51218222792793,
+            "longitude": 7.426787993143953
+          },
+          "b": {
+            "latitude": 51.51233287207207,
+            "longitude": 7.427031406856047
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.53282952792793,
+            "longitude": 7.456655340556114
+          },
+          "b": {
+            "latitude": 51.53303397207207,
+            "longitude": 7.457085459443887
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51710702792793,
+            "longitude": 7.45712458062347
+          },
+          "b": {
+            "latitude": 51.51725707207207,
+            "longitude": 7.457408319376531
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49487392792793,
+            "longitude": 7.457485737128199
+          },
+          "b": {
+            "latitude": 51.495019572072074,
+            "longitude": 7.457746362871801
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.513683027927925,
+            "longitude": 7.489901089226615
+          },
+          "b": {
+            "latitude": 51.513913872072074,
+            "longitude": 7.490484410773385
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.530344727927925,
+            "longitude": 7.450096946948851
+          },
+          "b": {
+            "latitude": 51.53049497207207,
+            "longitude": 7.450329653051149
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.53379252792793,
+            "longitude": 7.425833238108869
+          },
+          "b": {
+            "latitude": 51.533993972072075,
+            "longitude": 7.426248961891131
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.507417327927925,
+            "longitude": 7.516138905098458
+          },
+          "b": {
+            "latitude": 51.507691372072074,
+            "longitude": 7.516405394901542
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50727672792793,
+            "longitude": 7.506403405596322
+          },
+          "b": {
+            "latitude": 51.50744017207207,
+            "longitude": 7.506774994403678
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "OBSTACLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.507722627927926,
+            "longitude": 7.440890604415442
+          },
+          "b": {
+            "latitude": 51.50792357207207,
+            "longitude": 7.441131895584558
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.507137627927925,
+            "longitude": 7.514404505940427
+          },
+          "b": {
+            "latitude": 51.50730847207207,
+            "longitude": 7.5146406940595725
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52155042792793,
+            "longitude": 7.514632669053253
+          },
+          "b": {
+            "latitude": 51.52191267207207,
+            "longitude": 7.515630230946747
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52292402792793,
+            "longitude": 7.473117865823628
+          },
+          "b": {
+            "latitude": 51.52307847207207,
+            "longitude": 7.473356834176371
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "0 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.506569227927926,
+            "longitude": 7.463182007287088
+          },
+          "b": {
+            "latitude": 51.506817072072074,
+            "longitude": 7.463443292712912
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 2.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51676722792793,
+            "longitude": 7.420736981456117
+          },
+          "b": {
+            "latitude": 51.516941972072075,
+            "longitude": 7.421331818543883
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.53521892792793,
+            "longitude": 7.430851434514239
+          },
+          "b": {
+            "latitude": 51.53539197207207,
+            "longitude": 7.4310898654857604
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.498318927927926,
+            "longitude": 7.501583828327908
+          },
+          "b": {
+            "latitude": 51.49850437207207,
+            "longitude": 7.501852171672093
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.505088027927926,
+            "longitude": 7.463978911170165
+          },
+          "b": {
+            "latitude": 51.50524217207207,
+            "longitude": 7.464345688829836
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.502571427927926,
+            "longitude": 7.450757417559259
+          },
+          "b": {
+            "latitude": 51.50272977207207,
+            "longitude": 7.450990482440742
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50761942792793,
+            "longitude": 7.467588204644683
+          },
+          "b": {
+            "latitude": 51.50784637207207,
+            "longitude": 7.468298895355318
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50520972792793,
+            "longitude": 7.461590310847064
+          },
+          "b": {
+            "latitude": 51.505374772072074,
+            "longitude": 7.461997889152936
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51281132792793,
+            "longitude": 7.437834891544926
+          },
+          "b": {
+            "latitude": 51.512961772072074,
+            "longitude": 7.438068708455074
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52359642792793,
+            "longitude": 7.47316816411448
+          },
+          "b": {
+            "latitude": 51.523749872072074,
+            "longitude": 7.47346113588552
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52143672792793,
+            "longitude": 7.475960669616383
+          },
+          "b": {
+            "latitude": 51.521583572072075,
+            "longitude": 7.476212630383616
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50060832792793,
+            "longitude": 7.4811651225166775
+          },
+          "b": {
+            "latitude": 51.500790272072074,
+            "longitude": 7.481575377483322
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 2.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51319452792793,
+            "longitude": 7.44059398910776
+          },
+          "b": {
+            "latitude": 51.514495872072075,
+            "longitude": 7.44262771089224
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 2.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51610332792793,
+            "longitude": 7.418418183138658
+          },
+          "b": {
+            "latitude": 51.51628247207207,
+            "longitude": 7.418676216861342
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51413282792793,
+            "longitude": 7.426220388063474
+          },
+          "b": {
+            "latitude": 51.514379072072074,
+            "longitude": 7.4264649119365265
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51280042792793,
+            "longitude": 7.439403291459508
+          },
+          "b": {
+            "latitude": 51.51303987207207,
+            "longitude": 7.439931108540493
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.497110727927925,
+            "longitude": 7.46878633130556
+          },
+          "b": {
+            "latitude": 51.49736797207207,
+            "longitude": 7.4690785686944405
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50766252792793,
+            "longitude": 7.469127604627908
+          },
+          "b": {
+            "latitude": 51.50781647207207,
+            "longitude": 7.469363795372092
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52821822792793,
+            "longitude": 7.469750352171481
+          },
+          "b": {
+            "latitude": 51.52851667207207,
+            "longitude": 7.469985047828519
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50937322792793,
+            "longitude": 7.519737800264254
+          },
+          "b": {
+            "latitude": 51.50953957207207,
+            "longitude": 7.520016099735746
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.495354827927926,
+            "longitude": 7.485590035878959
+          },
+          "b": {
+            "latitude": 51.495522472072075,
+            "longitude": 7.486403764121041
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51006182792793,
+            "longitude": 7.509632098538396
+          },
+          "b": {
+            "latitude": 51.51020897207207,
+            "longitude": 7.509877801461604
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "0 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.523412627927925,
+            "longitude": 7.47163436458966
+          },
+          "b": {
+            "latitude": 51.52356007207207,
+            "longitude": 7.47186883541034
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.506830627927926,
+            "longitude": 7.47228940668581
+          },
+          "b": {
+            "latitude": 51.50702887207207,
+            "longitude": 7.472539893314189
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.527261427927925,
+            "longitude": 7.4814710547360015
+          },
+          "b": {
+            "latitude": 51.527457672072075,
+            "longitude": 7.481721045263998
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 2.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52407062792793,
+            "longitude": 7.475861362897762
+          },
+          "b": {
+            "latitude": 51.52423227207207,
+            "longitude": 7.476208237102238
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.496968427927925,
+            "longitude": 7.486225631776712
+          },
+          "b": {
+            "latitude": 51.49713927207207,
+            "longitude": 7.486549168223288
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52132382792793,
+            "longitude": 7.453283169899982
+          },
+          "b": {
+            "latitude": 51.521473472072074,
+            "longitude": 7.4535890301000185
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52774712792793,
+            "longitude": 7.483459953563424
+          },
+          "b": {
+            "latitude": 51.527893672072075,
+            "longitude": 7.483708246436576
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.499494127927925,
+            "longitude": 7.41978792526178
+          },
+          "b": {
+            "latitude": 51.499743272072074,
+            "longitude": 7.42003607473822
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.508197527927926,
+            "longitude": 7.445702903248508
+          },
+          "b": {
+            "latitude": 51.508366972072075,
+            "longitude": 7.446032596751492
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.505901027927926,
+            "longitude": 7.499889209097098
+          },
+          "b": {
+            "latitude": 51.506060772072075,
+            "longitude": 7.500200490902902
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51403732792793,
+            "longitude": 7.473125488406064
+          },
+          "b": {
+            "latitude": 51.51420507207207,
+            "longitude": 7.473384211593936
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52393042792793,
+            "longitude": 7.478077863252885
+          },
+          "b": {
+            "latitude": 51.52409327207207,
+            "longitude": 7.478321936747116
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49688502792793,
+            "longitude": 7.482098431840209
+          },
+          "b": {
+            "latitude": 51.497172672072075,
+            "longitude": 7.482345168159791
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.508175527927925,
+            "longitude": 7.47426990320581
+          },
+          "b": {
+            "latitude": 51.50842257207207,
+            "longitude": 7.47451669679419
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50112442792793,
+            "longitude": 7.417761521252796
+          },
+          "b": {
+            "latitude": 51.50126917207207,
+            "longitude": 7.4181409787472035
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50767132792793,
+            "longitude": 7.457969104615328
+          },
+          "b": {
+            "latitude": 51.50781757207207,
+            "longitude": 7.458245895384672
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50892082792793,
+            "longitude": 7.450840601441307
+          },
+          "b": {
+            "latitude": 51.50906577207207,
+            "longitude": 7.451093398558693
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.53433012792793,
+            "longitude": 7.463662436792162
+          },
+          "b": {
+            "latitude": 51.53449097207207,
+            "longitude": 7.464028363207839
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51713202792793,
+            "longitude": 7.474222280563077
+          },
+          "b": {
+            "latitude": 51.51727957207207,
+            "longitude": 7.474535619436923
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52107712792793,
+            "longitude": 7.505949070474421
+          },
+          "b": {
+            "latitude": 51.52126847207207,
+            "longitude": 7.506228729525579
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.535063627927926,
+            "longitude": 7.4664881348155
+          },
+          "b": {
+            "latitude": 51.53531057207207,
+            "longitude": 7.4667514651845
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.515758927927926,
+            "longitude": 7.499354684050335
+          },
+          "b": {
+            "latitude": 51.51590977207207,
+            "longitude": 7.499728815949665
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.499434527927924,
+            "longitude": 7.481286225535621
+          },
+          "b": {
+            "latitude": 51.49958727207207,
+            "longitude": 7.481573474464379
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52648882792793,
+            "longitude": 7.480572456763799
+          },
+          "b": {
+            "latitude": 51.526636272072075,
+            "longitude": 7.480805243236201
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49380762792793,
+            "longitude": 7.487579739833663
+          },
+          "b": {
+            "latitude": 51.49395517207207,
+            "longitude": 7.487860860166337
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50110342792793,
+            "longitude": 7.5150782213042415
+          },
+          "b": {
+            "latitude": 51.50124967207207,
+            "longitude": 7.515500178695759
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "0 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 2.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.523382827927925,
+            "longitude": 7.459870964450388
+          },
+          "b": {
+            "latitude": 51.52369937207207,
+            "longitude": 7.460128135549612
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50074082792793,
+            "longitude": 7.515304622228085
+          },
+          "b": {
+            "latitude": 51.50088497207207,
+            "longitude": 7.515544377771915
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.501275727927926,
+            "longitude": 7.4673471207586655
+          },
+          "b": {
+            "latitude": 51.50150687207207,
+            "longitude": 7.467602179241335
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49956012792793,
+            "longitude": 7.47480442515801
+          },
+          "b": {
+            "latitude": 51.49975897207207,
+            "longitude": 7.4750565748419895
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.494877527927926,
+            "longitude": 7.454930537082994
+          },
+          "b": {
+            "latitude": 51.49505157207207,
+            "longitude": 7.455518962917006
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51072612792793,
+            "longitude": 7.491210896006422
+          },
+          "b": {
+            "latitude": 51.51153687207207,
+            "longitude": 7.491450003993578
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.532747627927925,
+            "longitude": 7.454121140724603
+          },
+          "b": {
+            "latitude": 51.532983472072075,
+            "longitude": 7.454431059275397
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51865222792793,
+            "longitude": 7.501736776699423
+          },
+          "b": {
+            "latitude": 51.51879807207207,
+            "longitude": 7.502129623300577
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.53535932792793,
+            "longitude": 7.437532334151247
+          },
+          "b": {
+            "latitude": 51.53553677207207,
+            "longitude": 7.437890065848753
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51245532792793,
+            "longitude": 7.472119892456048
+          },
+          "b": {
+            "latitude": 51.51260097207207,
+            "longitude": 7.472407407543952
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.504399727927925,
+            "longitude": 7.450095412653625
+          },
+          "b": {
+            "latitude": 51.50476287207207,
+            "longitude": 7.450367787346375
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52579452792793,
+            "longitude": 7.419417658471198
+          },
+          "b": {
+            "latitude": 51.52598837207207,
+            "longitude": 7.4197083415288025
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52604692792793,
+            "longitude": 7.459002657887952
+          },
+          "b": {
+            "latitude": 51.52619447207207,
+            "longitude": 7.459293742112048
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50300032792793,
+            "longitude": 7.439054316478424
+          },
+          "b": {
+            "latitude": 51.50315167207207,
+            "longitude": 7.439327083521576
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 3.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.518650027927926,
+            "longitude": 7.460269476683529
+          },
+          "b": {
+            "latitude": 51.518812772072074,
+            "longitude": 7.461057423316471
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 2.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.519459327927926,
+            "longitude": 7.446214974615195
+          },
+          "b": {
+            "latitude": 51.519630072072076,
+            "longitude": 7.446880725384805
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52995022792793,
+            "longitude": 7.4482897479092465
+          },
+          "b": {
+            "latitude": 51.53013467207207,
+            "longitude": 7.448529352090754
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52185572792793,
+            "longitude": 7.471857968542765
+          },
+          "b": {
+            "latitude": 51.52200877207207,
+            "longitude": 7.472218831457234
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51463372792793,
+            "longitude": 7.4261938869193695
+          },
+          "b": {
+            "latitude": 51.51477817207207,
+            "longitude": 7.42642891308063
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 6.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.523969027927926,
+            "longitude": 7.450053863158254
+          },
+          "b": {
+            "latitude": 51.52412907207207,
+            "longitude": 7.450307436841746
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 2.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52294982792793,
+            "longitude": 7.472292765691228
+          },
+          "b": {
+            "latitude": 51.52315677207207,
+            "longitude": 7.472525034308772
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52900742792793,
+            "longitude": 7.4642744503448775
+          },
+          "b": {
+            "latitude": 51.529163172072074,
+            "longitude": 7.464727249655122
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 2.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49532762792793,
+            "longitude": 7.500120235965815
+          },
+          "b": {
+            "latitude": 51.49548127207207,
+            "longitude": 7.500481564034185
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 1.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.533370827927925,
+            "longitude": 7.503805439233371
+          },
+          "b": {
+            "latitude": 51.53353207207207,
+            "longitude": 7.5041032607666285
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 5.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.516953627927926,
+            "longitude": 7.495935480988241
+          },
+          "b": {
+            "latitude": 51.51712357207207,
+            "longitude": 7.4961738190117595
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.53128262792793,
+            "longitude": 7.447973144566603
+          },
+          "b": {
+            "latitude": 51.531429272072074,
+            "longitude": 7.448243755433397
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "POTHOLE",
+        "value": 4.0
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52247582792793,
+            "longitude": 7.506678766842371
+          },
+          "b": {
+            "latitude": 51.52272567207207,
+            "longitude": 7.507195033157629
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.530484027927926,
+            "longitude": 7.457926546596522
+          },
+          "b": {
+            "latitude": 51.53063257207207,
+            "longitude": 7.458177553403478
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 4
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.519480527927925,
+            "longitude": 7.473626174571197
+          },
+          "b": {
+            "latitude": 51.51964347207207,
+            "longitude": 7.473990925428803
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51538332792793,
+            "longitude": 7.447288684915209
+          },
+          "b": {
+            "latitude": 51.51560507207207,
+            "longitude": 7.447970915084791
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49160312792793,
+            "longitude": 7.4795248453554315
+          },
+          "b": {
+            "latitude": 51.49181057207207,
+            "longitude": 7.479842754644568
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 4
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50941322792793,
+            "longitude": 7.442140500144666
+          },
+          "b": {
+            "latitude": 51.50959367207207,
+            "longitude": 7.442388299855334
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 3
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51692112792793,
+            "longitude": 7.494793381096946
+          },
+          "b": {
+            "latitude": 51.51707057207207,
+            "longitude": 7.495026118903055
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52593562792793,
+            "longitude": 7.431447458157632
+          },
+          "b": {
+            "latitude": 51.52609377207207,
+            "longitude": 7.431715741842368
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 1
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51014822792793,
+            "longitude": 7.459642297242178
+          },
+          "b": {
+            "latitude": 51.51114247207207,
+            "longitude": 7.461345002757822
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 4
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51790062792793,
+            "longitude": 7.518940978538284
+          },
+          "b": {
+            "latitude": 51.51810347207207,
+            "longitude": 7.519192621461716
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.53301922792793,
+            "longitude": 7.496733639772959
+          },
+          "b": {
+            "latitude": 51.53345967207207,
+            "longitude": 7.4978879602270405
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51553862792793,
+            "longitude": 7.470659484532292
+          },
+          "b": {
+            "latitude": 51.51575097207207,
+            "longitude": 7.4709149154677075
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51022542792793,
+            "longitude": 7.509536298118105
+          },
+          "b": {
+            "latitude": 51.51037607207207,
+            "longitude": 7.5098205018818955
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 4
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52594422792793,
+            "longitude": 7.514032358114128
+          },
+          "b": {
+            "latitude": 51.526119372072074,
+            "longitude": 7.514408641885872
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50139652792793,
+            "longitude": 7.450253920558345
+          },
+          "b": {
+            "latitude": 51.501543772072075,
+            "longitude": 7.450596379441655
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 4
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.520612627927925,
+            "longitude": 7.457637671654178
+          },
+          "b": {
+            "latitude": 51.520805272072074,
+            "longitude": 7.457876028345822
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 2
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51682382792793,
+            "longitude": 7.516230081296175
+          },
+          "b": {
+            "latitude": 51.517011172072074,
+            "longitude": 7.516471618703825
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 2
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49491442792793,
+            "longitude": 7.457397637024837
+          },
+          "b": {
+            "latitude": 51.49506047207207,
+            "longitude": 7.457665062975163
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.514490527927926,
+            "longitude": 7.4989810872736635
+          },
+          "b": {
+            "latitude": 51.51464267207207,
+            "longitude": 7.499252912726336
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 1
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.512723527927925,
+            "longitude": 7.473189791775123
+          },
+          "b": {
+            "latitude": 51.51286847207207,
+            "longitude": 7.4734728082248765
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52143152792793,
+            "longitude": 7.462500369589805
+          },
+          "b": {
+            "latitude": 51.521609672072074,
+            "longitude": 7.4628705304101945
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 1
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51416552792793,
+            "longitude": 7.516831787918301
+          },
+          "b": {
+            "latitude": 51.514460572072075,
+            "longitude": 7.517220612081699
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49949392792793,
+            "longitude": 7.512185925328462
+          },
+          "b": {
+            "latitude": 51.499690972072074,
+            "longitude": 7.512439974671538
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 4
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50196362792793,
+            "longitude": 7.517136519120755
+          },
+          "b": {
+            "latitude": 51.50210837207207,
+            "longitude": 7.517496380879245
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.505153627927925,
+            "longitude": 7.465234610886959
+          },
+          "b": {
+            "latitude": 51.50539947207207,
+            "longitude": 7.465502289113041
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52855922792793,
+            "longitude": 7.468611251339168
+          },
+          "b": {
+            "latitude": 51.52882987207207,
+            "longitude": 7.468849748660832
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.53151562792793,
+            "longitude": 7.4616654439485615
+          },
+          "b": {
+            "latitude": 51.53168197207207,
+            "longitude": 7.462091756051438
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 3
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51287082792793,
+            "longitude": 7.454479991392392
+          },
+          "b": {
+            "latitude": 51.51302227207207,
+            "longitude": 7.454906508607608
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.506913327927926,
+            "longitude": 7.451167506532694
+          },
+          "b": {
+            "latitude": 51.50706667207207,
+            "longitude": 7.451400293467306
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 3
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52308052792793,
+            "longitude": 7.499337965401118
+          },
+          "b": {
+            "latitude": 51.52325417207207,
+            "longitude": 7.499596234598883
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 1
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.499513627927925,
+            "longitude": 7.49728032534472
+          },
+          "b": {
+            "latitude": 51.49965847207207,
+            "longitude": 7.497843574655279
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 1
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50818722792793,
+            "longitude": 7.460733203275193
+          },
+          "b": {
+            "latitude": 51.50835627207207,
+            "longitude": 7.461078896724806
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 3
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50278032792793,
+            "longitude": 7.472219716743681
+          },
+          "b": {
+            "latitude": 51.503162872072075,
+            "longitude": 7.472687983256319
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51346822792793,
+            "longitude": 7.459668989804108
+          },
+          "b": {
+            "latitude": 51.513674372072074,
+            "longitude": 7.459924510195893
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 4
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.504787027927925,
+            "longitude": 7.513988311945696
+          },
+          "b": {
+            "latitude": 51.504932772072074,
+            "longitude": 7.5142397880543035
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.530786727927925,
+            "longitude": 7.421780045434544
+          },
+          "b": {
+            "latitude": 51.53124307207207,
+            "longitude": 7.422065054565456
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 2
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50237912792793,
+            "longitude": 7.491466618029924
+          },
+          "b": {
+            "latitude": 51.50255157207207,
+            "longitude": 7.491709281970076
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 1
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52537502792793,
+            "longitude": 7.4570738595939075
+          },
+          "b": {
+            "latitude": 51.52552527207207,
+            "longitude": 7.457396840406092
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 1
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.53084902792793,
+            "longitude": 7.453273545546773
+          },
+          "b": {
+            "latitude": 51.53109257207207,
+            "longitude": 7.453525854453226
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52070242792793,
+            "longitude": 7.503876071444477
+          },
+          "b": {
+            "latitude": 51.52088037207207,
+            "longitude": 7.504181028555523
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50659812792793,
+            "longitude": 7.482305607209832
+          },
+          "b": {
+            "latitude": 51.50684897207207,
+            "longitude": 7.482547692790168
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 2
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49302042792793,
+            "longitude": 7.438020841687661
+          },
+          "b": {
+            "latitude": 51.49328217207207,
+            "longitude": 7.438357758312339
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 3
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51612962792793,
+            "longitude": 7.455160283086913
+          },
+          "b": {
+            "latitude": 51.516296872072076,
+            "longitude": 7.455573516913087
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.503443227927924,
+            "longitude": 7.463880315340268
+          },
+          "b": {
+            "latitude": 51.50360467207207,
+            "longitude": 7.464311584659732
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51454322792793,
+            "longitude": 7.513617087092259
+          },
+          "b": {
+            "latitude": 51.51473267207207,
+            "longitude": 7.513854112907741
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 4
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51054672792793,
+            "longitude": 7.463737697298481
+          },
+          "b": {
+            "latitude": 51.51069967207207,
+            "longitude": 7.463973902701519
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 3
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.516511527927925,
+            "longitude": 7.4240058821403805
+          },
+          "b": {
+            "latitude": 51.51665947207207,
+            "longitude": 7.424276517859619
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 4
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51172072792793,
+            "longitude": 7.462828994322721
+          },
+          "b": {
+            "latitude": 51.51186697207207,
+            "longitude": 7.463109405677279
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49323042792793,
+            "longitude": 7.497613341288351
+          },
+          "b": {
+            "latitude": 51.49338667207207,
+            "longitude": 7.497865358711649
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 2
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52018492792793,
+            "longitude": 7.516810172777061
+          },
+          "b": {
+            "latitude": 51.520349972072076,
+            "longitude": 7.517138127222939
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 3
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52827652792793,
+            "longitude": 7.467703652011559
+          },
+          "b": {
+            "latitude": 51.52858407207207,
+            "longitude": 7.467944447988441
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "1 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.50063282792793,
+            "longitude": 7.508246422467012
+          },
+          "b": {
+            "latitude": 51.500804872072074,
+            "longitude": 7.508586077532987
+          }
+        }
+      },
+      "time": {
+        "start": "1 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 2
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51790352792793,
+            "longitude": 7.48905717847242
+          },
+          "b": {
+            "latitude": 51.51815237207207,
+            "longitude": 7.48928972152758
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 5
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52294362792793,
+            "longitude": 7.465338365772627
+          },
+          "b": {
+            "latitude": 51.52309897207207,
+            "longitude": 7.465703934227372
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49844362792793,
+            "longitude": 7.4419529280629755
+          },
+          "b": {
+            "latitude": 51.49858827207207,
+            "longitude": 7.442201271937025
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 1
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.52861342792793,
+            "longitude": 7.45668865130609
+          },
+          "b": {
+            "latitude": 51.52880167207207,
+            "longitude": 7.45693564869391
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 2
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49272312792793,
+            "longitude": 7.4944215416902
+          },
+          "b": {
+            "latitude": 51.49357747207207,
+            "longitude": 7.4951187583098
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 3
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51811162792793,
+            "longitude": 7.458645478073298
+          },
+          "b": {
+            "latitude": 51.51825817207207,
+            "longitude": 7.458895321926702
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 6
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.49489522792793,
+            "longitude": 7.425849536992203
+          },
+          "b": {
+            "latitude": 51.495105372072075,
+            "longitude": 7.426148363007797
+          }
+        }
+      },
+      "time": {
+        "start": "3 s",
+        "end": "4 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 1
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.501184527927926,
+            "longitude": 7.475305721073564
+          },
+          "b": {
+            "latitude": 51.50135017207207,
+            "longitude": 7.475598178926436
+          }
+        }
+      },
+      "time": {
+        "start": "4 s",
+        "end": "5 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 2
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.51487442792793,
+            "longitude": 7.47930798630116
+          },
+          "b": {
+            "latitude": 51.51502377207207,
+            "longitude": 7.47959761369884
+          }
+        }
+      },
+      "time": {
+        "start": "0 s",
+        "end": "3 s"
+      }
+    },
+    {
+      "type": {
+        "sensorType": "SUNNY",
+        "value": 2
+      },
+      "location": {
+        "area": {
+          "type": "Rectangle",
+          "a": {
+            "latitude": 51.53293162792793,
+            "longitude": 7.443477939950361
+          },
+          "b": {
+            "latitude": 51.533407872072075,
+            "longitude": 7.44375926004964
+          }
+        }
+      },
+      "time": {
+        "start": "2 s",
+        "end": "2 s"
+      }
+    }
+  ]
+}

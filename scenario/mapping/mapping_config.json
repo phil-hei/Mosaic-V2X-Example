@@ -1,0 +1,32 @@
+{
+  "prototypes" : [ {
+    "name" : "motorcycle",
+    "weight" : 1.0,
+    "applications" : [ "cav.VehicleDataCollector" ]
+  }, {
+    "name" : "car",
+    "weight" : 1.0,
+    "applications" : [ "cav.VehicleDataCollector" ]
+  }, {
+    "name" : "van",
+    "weight" : 1.0,
+    "applications" : [ "cav.VehicleDataCollector" ]
+  }, {
+    "name" : "scooter",
+    "weight" : 1.0,
+    "applications" : [ "cav.VehicleDataCollector" ]
+  }, {
+    "name" : "truck",
+    "weight" : 1.0,
+    "applications" : [ "cav.VehicleDataCollector" ]
+  }, {
+    "name" : "bicycle",
+    "weight" : 1.0,
+    "applications" : [ "cav.VehicleDataCollector" ]
+  } ],
+  "servers" : [ {
+    "name" : "VehicleDataServer",
+    "group" : "VehicleDataServer",
+    "applications" : [ "cav.VehicleDataServer" ]
+  } ]
+}

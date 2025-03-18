@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+  	
+  <input>
+    		
+    <net-file value="ddc30d50-c050-4da1-9653-3859b07f3be2.net.xml"/>
+    		
+    <route-files value="ddc30d50-c050-4da1-9653-3859b07f3be2.rou.xml"/>
+    	
+  </input>
+  	
+  <time>
+    		
+    <begin value="0"/>
+    		
+    <end value="300"/>
+    	
+  </time>
+  
+</configuration>

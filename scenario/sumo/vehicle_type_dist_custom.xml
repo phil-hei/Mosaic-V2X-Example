@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<additional>
+    <vTypeDistribution id="vehicle_type_dist_custom">
+        <vType id="motorcycle" maxSpeed="40.0" probability="0.06" vClass="motorcycle"/>
+        <vType id="car" maxSpeed="35.0" probability="0.59" vClass="passenger"/>
+        <vType id="van" maxSpeed="30.0" probability="0.12" vClass="delivery"/>
+        <vType id="scooter" maxSpeed="25.0" probability="0.05" vClass="scooter"/>
+        <vType containerCapacity="10" id="truck" maxSpeed="25.0" probability="0.08" vClass="truck"/>
+        <vType id="bicycle" maxSpeed="15.0" probability="0.11" vClass="bicycle"/>
+    </vTypeDistribution>
+</additional>
